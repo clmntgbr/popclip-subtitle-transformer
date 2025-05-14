@@ -1,8 +1,8 @@
-# subclip-subtitle-transformer
+# popclip-subtitle-transformer
 
 ## Description
 
-`subclip-subtitle-transformer` is a microservice designed to convert subtitle files from SRT format to ASS format. It allows users to easily transform subtitles, preserving timing and text while adapting the file to a more feature-rich format, such as style customization and additional formatting options available in ASS.
+`popclip-subtitle-transformer` is a microservice designed to convert subtitle files from SRT format to ASS format. It allows users to easily transform subtitles, preserving timing and text while adapting the file to a more feature-rich format, such as style customization and additional formatting options available in ASS.
 
 ## Features
 
